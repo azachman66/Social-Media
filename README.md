@@ -5,7 +5,7 @@
 
 This is a mock-up of a social media application, back end only. It allows you to get users and thoughts, create users and thoughts, update users and thoughts, and delete users and thoughts.
 
-[Walkthrough Video](https://kanban-board-28hg.onrender.com)
+[Walkthrough Video](https://drive.google.com/file/d/1w6lIQ5xKbIIWidHCnGaS-QmBL5-QFu55/view)
 
 ## Table of Contents
   - [Installation](#installation)
